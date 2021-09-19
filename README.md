@@ -1,2 +1,2 @@
 # dio-revisao
-Projeto de revisão dos módulo: Primeiros passos com .NET
+Projeto de revisão do módulo: Primeiros passos com .NET
